@@ -62,13 +62,14 @@ Pillow>=10.0.0
 1. **Detection**: The bot continuously scans for the fishing minigame by looking for dark rectangular areas (the slider background) and orange bars
 2. **Auto-Start** (optional): If enabled, the bot automatically activates when a minigame is detected
 3. **Tracking**: Once the minigame is detected, the bot:
+   - make sure your camera is facing down looking at the ground and have the side that the slider for when you catch a fish appears have the mouse on that side of the monitor
    - Locates the white bobber (fishing float)
    - Finds the orange slider bar
    - Calculates the difference between their positions
-4. **Control**: 
+5. **Control**: 
    - If bobber is **below** the bar → **HOLD** the mouse button (pulls slider down)
    - If bobber is **above** the bar → **RELEASE** the mouse button (lets slider rise)
-5. **Completion**: When the minigame ends, waits 6 seconds and clicks once
+6. **Completion**: When the minigame ends, waits 6 seconds and clicks once
 
 ## Configuration
 
