@@ -1,3 +1,4 @@
+(this was made entirly using ai)
 # Roblox Auto Fisher
 
 An automated bot for Roblox fishing minigames that uses computer vision to detect and control the fishing slider. The bot automatically tracks the white bobber and adjusts the slider position to keep it within the acceptable range.
