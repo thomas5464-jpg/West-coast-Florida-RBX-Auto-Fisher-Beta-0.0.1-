@@ -117,6 +117,8 @@ To see what the bot is detecting in real-time:
 
 ## Troubleshooting
 
+### this isnt perfect and doesnt work 100% of the time and may require user input to fix it
+
 ### Bot not detecting minigame
 - Check that the fishing area is visible and not covered by UI elements
 - Increase `REGION_MAX_WIDTH` if the minigame region is being cut off
